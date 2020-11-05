@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "newsmoreview-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/newsmoreview/NewsmoreviewWebPart.js",
+          "manifest": "./src/webparts/newsmoreview/NewsmoreviewWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "NewsmoreviewWebPartStrings": "lib/webparts/newsmoreview/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "extensiongaleriastyle-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/extensiongaleriastyle/ExtensiongaleriastyleApplicationCustomizer.js",
+          "manifest": "./src/extensions/extensiongaleriastyle/ExtensiongaleriastyleApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ExtensiongaleriastyleApplicationCustomizerStrings": "lib/extensions/extensiongaleriastyle/loc/{locale}.js"
+  }
+}

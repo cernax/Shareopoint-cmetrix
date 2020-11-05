@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cumpleanos-client-side-solution",
+    "id": "f4aaad16-b313-48fc-a6ff-bd553fe53dca",
+    "version": "1.0.1.4",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/cumpleanos.sppkg"
+  }
+}

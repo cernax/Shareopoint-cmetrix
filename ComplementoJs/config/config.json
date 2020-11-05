@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "newscommentforo-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/newscommentforo/NewscommentforoApplicationCustomizer.js",
+          "manifest": "./src/extensions/newscommentforo/NewscommentforoApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "NewscommentforoApplicationCustomizerStrings": "lib/extensions/newscommentforo/loc/{locale}.js"
+  }
+}

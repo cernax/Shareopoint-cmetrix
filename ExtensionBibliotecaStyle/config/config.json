@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "extensionbibliotecastyle-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/extensionbibliotecastyle/ExtensionbibliotecastyleApplicationCustomizer.js",
+          "manifest": "./src/extensions/extensionbibliotecastyle/ExtensionbibliotecastyleApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ExtensionbibliotecastyleApplicationCustomizerStrings": "lib/extensions/extensionbibliotecastyle/loc/{locale}.js"
+  }
+}

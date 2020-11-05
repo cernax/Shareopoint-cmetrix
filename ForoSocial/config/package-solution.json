@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "forosocial-client-side-solution",
+    "id": "b91f3d10-9017-4a13-9815-2a264c80781f",
+    "version": "1.0.1.2",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/forosocial.sppkg"
+  }
+}

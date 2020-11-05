@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "carrusel",
+    "id": "5ed20c81-bbc6-47bb-a809-fb32682f8af7",
+    "version": "1.0.2.4",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": true
+  },
+  "paths": {
+    "zippedPackage": "solution/carrusel.sppkg"
+  }
+}

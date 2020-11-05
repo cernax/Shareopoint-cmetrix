@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="Extensionbibliotecastyle"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="5570a866-8051-4c25-9f32-9f1bda9ec52f"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>

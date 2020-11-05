@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "social-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/social/SocialWebPart.js",
+          "manifest": "./src/webparts/social/SocialWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SocialWebPartStrings": "lib/webparts/social/loc/{locale}.js"
+  }
+}

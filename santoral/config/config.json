@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "santoral-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/santoral/SantoralWebPart.js",
+          "manifest": "./src/webparts/santoral/SantoralWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SantoralWebPartStrings": "lib/webparts/santoral/loc/{locale}.js"
+  }
+}

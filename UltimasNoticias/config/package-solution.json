@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ultimasnoticias-client-side-solution",
+    "id": "8dd22ac9-e40f-4a4d-87b5-5e48549da4a6",
+    "version": "1.0.2.1",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/ultimasnoticias.sppkg"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "carouseliamge-client-side-solution",
+    "id": "91f22b5b-f97d-49c9-8c94-be2dfb1b9909",
+    "version": "1.0.1.8",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/carouseliamge.sppkg"
+  }
+}

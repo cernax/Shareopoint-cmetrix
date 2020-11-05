@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "newsmoreview-client-side-solution",
+    "id": "4527cdef-626c-4a41-aac9-4bbb3a92fb60",
+    "version": "1.0.0.1",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/newsmoreview.sppkg"
+  }
+}

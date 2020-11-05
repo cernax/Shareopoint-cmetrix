@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="Complementoforo"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="3e2e5367-201f-4827-9272-5d3d7732c1f9"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>

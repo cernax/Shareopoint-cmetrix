@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="284beb25-e75a-4803-9b12-6c261079af43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alert</find>
+      <find>ItemAddResult</find>
+      <find>setconcopia</find>
+      <find>console</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1gHONGXf50IhbFQ31CbBD44h1ve" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="284beb25-e75a-4803-9b12-6c261079af43" name="Default Changelist" comment="" />
+      <created>1592348567420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592348567420</updated>
+      <workItem from="1592348571939" duration="4326000" />
+      <workItem from="1592401828696" duration="1303000" />
+      <workItem from="1592404880681" duration="644000" />
+      <workItem from="1592429682829" duration="1066000" />
+      <workItem from="1592430780111" duration="7851000" />
+      <workItem from="1592488785385" duration="14887000" />
+      <workItem from="1592508522128" duration="16370000" />
+      <workItem from="1592555674679" duration="6575000" />
+      <workItem from="1592573968793" duration="2032000" />
+      <workItem from="1592680619698" duration="34394000" />
+      <workItem from="1592833436457" duration="4222000" />
+      <workItem from="1592837743922" duration="434000" />
+      <workItem from="1592838236401" duration="2051000" />
+      <workItem from="1593023763360" duration="1653000" />
+      <workItem from="1593030306267" duration="2658000" />
+      <workItem from="1593109002149" duration="28625000" />
+      <workItem from="1593200540936" duration="6694000" />
+      <workItem from="1593209548827" duration="241000" />
+      <workItem from="1593378260239" duration="351000" />
+      <workItem from="1594514210804" duration="3034000" />
+      <workItem from="1594735357651" duration="3413000" />
+      <workItem from="1594755600026" duration="1764000" />
+      <workItem from="1595428305220" duration="1242000" />
+      <workItem from="1595433142304" duration="1691000" />
+      <workItem from="1595442541841" duration="735000" />
+      <workItem from="1597768013754" duration="612000" />
+      <workItem from="1597774183730" duration="1436000" />
+      <workItem from="1598026654316" duration="1472000" />
+      <workItem from="1599482320031" duration="2628000" />
+      <workItem from="1599493842010" duration="634000" />
+      <workItem from="1599511877993" duration="892000" />
+      <workItem from="1599598957105" duration="252000" />
+      <workItem from="1602464223650" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1597774171893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/1920.0.1242.658/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597774171893" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1597774171893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/1920.0.1242.658/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597774171893" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1597774171893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/1920.0.1242.658/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597774171893" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1597774171893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/1920.0.1242.658/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597774171893" />
+  </component>
+</project>

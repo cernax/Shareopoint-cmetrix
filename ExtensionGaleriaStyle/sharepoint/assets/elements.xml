@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="Extensiongaleriastyle"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="932cfea7-e00b-407c-ab1f-e8c974b84aef"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>

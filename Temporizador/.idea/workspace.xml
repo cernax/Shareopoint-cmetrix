@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de3c66bd-59ea-44c6-9881-a10d33b7653b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gEzudViok9ercRRllDlsAedyF0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de3c66bd-59ea-44c6-9881-a10d33b7653b" name="Default Changelist" comment="" />
+      <created>1592338901130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592338901130</updated>
+      <workItem from="1592338905260" duration="4208000" />
+      <workItem from="1592403155566" duration="1706000" />
+      <workItem from="1592407227992" duration="2789000" />
+      <workItem from="1592506006997" duration="2486000" />
+      <workItem from="1592524992960" duration="1201000" />
+      <workItem from="1592529608103" duration="22655000" />
+      <workItem from="1592577625421" duration="758000" />
+      <workItem from="1592766825695" duration="617000" />
+      <workItem from="1592767465762" duration="35000" />
+      <workItem from="1592838199527" duration="19000" />
+      <workItem from="1592840309037" duration="3251000" />
+      <workItem from="1592860874835" duration="3041000" />
+      <workItem from="1593033787178" duration="3212000" />
+      <workItem from="1593097136488" duration="4517000" />
+      <workItem from="1593182582907" duration="1024000" />
+      <workItem from="1593377216647" duration="1014000" />
+      <workItem from="1594506822365" duration="7242000" />
+      <workItem from="1594738804650" duration="2930000" />
+      <workItem from="1595438619235" duration="1161000" />
+      <workItem from="1597694766449" duration="269000" />
+      <workItem from="1597695561519" duration="543000" />
+      <workItem from="1598037012716" duration="181000" />
+      <workItem from="1602710059654" duration="6443000" />
+      <workItem from="1602768135604" duration="837000" />
+      <workItem from="1603321132841" duration="359000" />
+      <workItem from="1603496835472" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1597695051472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/1920.0.1242.658/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597695051472" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1597695051472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/1920.0.1242.658/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597695051472" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1597695051472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/1920.0.1242.658/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597695051472" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1597695051472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/1920.0.1242.658/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597695051472" />
+  </component>
+</project>

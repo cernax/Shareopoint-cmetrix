@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "newmorelike-client-side-solution",
+    "id": "5b9db33d-72fc-41e6-a540-4576e2226024",
+    "version": "1.0.3.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/newmorelike.sppkg"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "indicadores-client-side-solution",
+    "id": "151d9c62-79a3-46a8-8a0d-f05ef4ba002a",
+    "version": "1.0.0.5",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/indicadores.sppkg"
+  }
+}

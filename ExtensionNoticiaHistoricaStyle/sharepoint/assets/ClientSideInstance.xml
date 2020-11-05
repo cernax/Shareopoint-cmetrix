@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="Extencionnoticiahistoricastyle"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="dca05582-007a-4ab6-b1da-b4a8945cd50f"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>

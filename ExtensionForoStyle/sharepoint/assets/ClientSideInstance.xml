@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="Extensioforostyle"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="93e6eed8-8db2-4cfc-ac9a-1542a7a3bfab"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>

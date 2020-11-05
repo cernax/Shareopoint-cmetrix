@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "euro-tv-client-side-solution",
+    "id": "3b129d88-6ddc-4acb-94bb-c69330bfba7d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/euro-tv.sppkg"
+  }
+}

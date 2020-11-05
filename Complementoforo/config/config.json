@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "complementoforo-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/complementoforo/ComplementoforoApplicationCustomizer.js",
+          "manifest": "./src/extensions/complementoforo/ComplementoforoApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ComplementoforoApplicationCustomizerStrings": "lib/extensions/complementoforo/loc/{locale}.js"
+  }
+}

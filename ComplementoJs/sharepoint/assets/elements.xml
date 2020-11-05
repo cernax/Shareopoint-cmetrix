@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="Newscommentforo"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="9f7822ff-e7c4-4840-9c75-fcb8292f2f5f"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>

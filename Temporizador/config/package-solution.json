@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "temporizador-client-side-solution",
+    "id": "03def220-a499-4f65-acd7-28c674f144ac",
+    "version": "1.0.1.1",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/temporizador.sppkg"
+  }
+}
